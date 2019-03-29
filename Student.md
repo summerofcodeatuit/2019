@@ -12,7 +12,7 @@ That, in future will help you in creating your own projects.
 
 ###  🚀 Leaderboard
 The leaderboard which displays all the activities by registered students
-would be live at the [website](https://github.com/summerofcodeatuit/2019/#/leaderboard). Basically it represents the activity
+would be live at the [website](https://summerofcodeatuit.github.io/2019/#/leaderboard). Basically it represents the activity
 of each and every student registered.
 
 ###  🚀 Choosing A Project
