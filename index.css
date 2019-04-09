@@ -139,7 +139,13 @@ img{
    }
    .p-10 {
     padding: 1rem 1rem !important;
-}
+   }
+   .code{
+     font-size: larger !important;
+   }
+   .m_3{
+    margin: 0rem !important;
+  }
 }
 .m-t-10{
   margin-top:  37%;
@@ -233,4 +239,7 @@ article{
 .link_white{
   color: white;
   text-decoration: none;
+}
+.m_3{
+  margin: 1rem;
 }
