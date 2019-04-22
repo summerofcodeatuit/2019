@@ -2,7 +2,7 @@
 name: New Project
 about: Submit Your Project
 title: new project
-labels: new project
+labels: ''
 assignees: ''
 
 ---

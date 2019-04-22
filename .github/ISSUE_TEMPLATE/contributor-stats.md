@@ -2,7 +2,7 @@
 name: Contributor stats
 about: 'Submit Contributor Status '
 title: stats
-labels: stats
+labels: ''
 assignees: ''
 
 ---
