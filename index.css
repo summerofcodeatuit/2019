@@ -264,5 +264,7 @@ article{
     margin-right: 0rem !important;
     margin-left: 0rem !important;
   }
-  
+  .last_footer{
+    font-size: 9px;
+  }
 }
