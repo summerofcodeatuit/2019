@@ -4,7 +4,7 @@
         "id": 1,
         "name": "Utkarsh's Project ",
         "des": "description of this project",
-        "tools": ["c","c++","python","java","sql","javaScript"],
+        "tools": ["c","c++","python","php","sql","javaScript"],
         "mentor":"utkarsh khati",
         "url":"#",
         "profile_url":"#"
