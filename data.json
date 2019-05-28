@@ -21,7 +21,7 @@
     {
         "id": 3,
         "name": "Algos-and-Problems",
-        "des": "This repository contains standard algorithms and problems ",
+        "des": "This project contains standard algorithms and problems ",
         "tools": ["c++","Algorithms"],
         "mentor":"shubham",
         "url":"https://github.com/whoami-shubham/Algos-and-Problems",

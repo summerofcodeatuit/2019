@@ -5,6 +5,8 @@ While you’ll be adding your piece of code to the existing codebase,
 you will get to learn the structure of the project and more about the
 process of creating it from scratch.
 That, in future will help you in creating your own projects.
+If You don’t know how to code it's fine contributing is not all about coding you can still contribute in documentation of project or improving existing documentation by fixing typos or broken links etc .
+
 
 ### 🚀 requirements 
  - A Working Laptop / PC With Internet Connection
@@ -45,6 +47,7 @@ information in README, in the comments of code etc. Ask the mentor to
 help you out with it.
 
 ### 🚀 resources 
+ - The Simplest Guide [git-guide](http://rogerdudler.github.io/git-guide/)
  - Overview of first contribution. follow given steps for your [first contribution](https://github.com/firstcontributions/first-contributions)
  - A Medium [Article](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
  - A Youtube [video](https://youtu.be/MJUJ4wbFm_A). Don’t be afraid if you don’t have a Linux / Mac you can use git commands in windows
