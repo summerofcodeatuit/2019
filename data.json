@@ -4,28 +4,28 @@
         "id": 1,
         "name": "Utkarsh's Project ",
         "des": "description of this project",
-        "tools": ["c","c++","python","java","sql","javaScript"],
+        "tools": ["c","c++","python","php","sql","javaScript"],
         "mentor":"utkarsh khati",
         "url":"#",
         "profile_url":"#"
     },
     {
         "id": 2,
-        "name": "Grocery shopping",
-        "des": "description of project 2",
-        "tools": ["c","c++","python","java","sql","django","go"],
-        "mentor":"xyz",
-        "url":"#",
-        "profile_url":"#"
+        "name": "Html Code Editor",
+        "des": "In this editor we can write code in html,css and js in 3 different sections and output of all section combined will be displayed below",
+        "tools": ["HTML","CSS","Js"],
+        "mentor":"shubham",
+        "url":"https://github.com/whoami-shubham/HtmlCodeEditor",
+        "profile_url":"https://github.com/whoami-shubham"
     },
     {
         "id": 3,
-        "name": "Clean gecko tank",
-        "des": "description of project 3",
-        "tools": ["c","c++","python","java","sql","flask"],
-        "mentor":"Acdd",
-        "url":"#",
-        "profile_url":"#"
+        "name": "Algos-and-Problems",
+        "des": "This repository contains standard algorithms and problems ",
+        "tools": ["c++"],
+        "mentor":"shubham",
+        "url":"https://github.com/whoami-shubham/Algos-and-Problems",
+        "profile_url":"https://github.com/whoami-shubham"
     },
     {
         "id": 4,
