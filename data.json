@@ -12,8 +12,8 @@
     {
         "id": 2,
         "name": "Html Code Editor",
-        "des": "In this editor we can write code in html,css and js in 3 different sections and output of all section combined will be displayed below",
-        "tools": ["HTML","CSS","Js"],
+        "des": "In this editor we can write code in html,css and javascript in 3 different sections and output of all section combined will be displayed below",
+        "tools": ["HTML","CSS","JavaScript"],
         "mentor":"shubham",
         "url":"https://github.com/whoami-shubham/HtmlCodeEditor",
         "profile_url":"https://github.com/whoami-shubham"
@@ -22,7 +22,7 @@
         "id": 3,
         "name": "Algos-and-Problems",
         "des": "This repository contains standard algorithms and problems ",
-        "tools": ["c++"],
+        "tools": ["c++","Algorithms"],
         "mentor":"shubham",
         "url":"https://github.com/whoami-shubham/Algos-and-Problems",
         "profile_url":"https://github.com/whoami-shubham"
