@@ -14,7 +14,7 @@
         "name": "Html Code Editor",
         "des": "In this editor we can write code in html,css and javascript in 3 different sections and output of all section combined will be displayed below",
         "tools": ["HTML","CSS","JavaScript"],
-        "mentor":"shubham",
+        "mentor":"shubham jha",
         "url":"https://github.com/whoami-shubham/HtmlCodeEditor",
         "profile_url":"https://github.com/whoami-shubham"
     },
@@ -23,7 +23,7 @@
         "name": "Algos-and-Problems",
         "des": "This project contains standard algorithms and problems ",
         "tools": ["c++","Algorithms"],
-        "mentor":"shubham",
+        "mentor":"shubham jha",
         "url":"https://github.com/whoami-shubham/Algos-and-Problems",
         "profile_url":"https://github.com/whoami-shubham"
     },
