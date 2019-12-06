@@ -50,7 +50,7 @@ help you out with it.
  - The Simplest Guide [git-guide](http://rogerdudler.github.io/git-guide/)
  - Overview of first contribution. follow given steps for your [first contribution](https://github.com/firstcontributions/first-contributions)
  - A Medium [Article](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
- - A Youtube [video](https://youtu.be/MJUJ4wbFm_A). Don’t be afraid if you don’t have a Linux / Mac you can use git commands in windows
+ - A Youtube video [this](https://youtu.be/MJUJ4wbFm_A) or [this](https://youtu.be/viEgHOkZnsI). Don’t be afraid if you don’t have a Linux / Mac you can use git commands in windows
    using [git bash](https://git-scm.com/download/win)
 
 ###  🚀 Contact
